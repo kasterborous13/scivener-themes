@@ -1,7 +1,7 @@
 # scivener-themes
 ## hualian autumn (or normal autumn with different background images)
 
-ok this is my first github thing and my first custom scrivener theme that I attempted to finish - it's for windows only and you'd need to set your own images
+ok this is my first github thing and my first custom scrivener theme that I attempted to finish - it's for windows only and you'd need to set your own images. I did upload the ones I used (main editor background - starember manhua art, edited contrast and hue; corkboard background official art from the donghua team) which I resized to work on my personal computer monitor
 
 Also I used space grotesk font <3 for everything I could, so you'd need to install that. https://github.com/floriankarsten/space-grotesk/releases/tag/2.0.0
 
